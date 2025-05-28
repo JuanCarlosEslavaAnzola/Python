@@ -8,6 +8,41 @@ Este repositorio documenta de forma estructurada mi proceso de aprendizaje en **
 
 El contenido está organizado de manera progresiva, iniciando con la sintaxis básica y avanzando hacia estructuras de datos, programación orientada a objetos, manejo de archivos, módulos, y más. También se incluyen ejercicios aplicados y proyectos prácticos.
 
+### Usos de Python
+ Como hemos dicho Python es un lenguaje muy transversal, usado en diferentes industrias y para diferentes fines. Python es también usado para fines muy diversos como son los siguientes:
+                <ul>
+                    <li><strong>Desarrollo Web</strong>: Existen frameworks como <a href="http://www.djangoproject.com/"
+                            title="Django">Django</a>, <a href="http://www.pylonsproject.org/"
+                            title="Pyramid">Pyramid</a>, <a href="http://flask.pocoo.org/" title="Flask">Flask</a> o <a
+                            href="http://bottlepy.org/" title="Bottle">Bottle</a> que permiten desarrollar páginas web a
+                        todos los niveles.
+                    <li><strong>Ciencia y Educación</strong>: Debido a su sintaxis tan sencilla, es una herramienta
+                        perfecta para enseñar conceptos de programación a todos los niveles. En lo relativo a ciencia y
+                        cálculo numérico, existen gran cantidad de librerías como <a href="http://scipy.org/"
+                            title="SciPy">SciPy</a> o <a href="http://pandas.pydata.org/" title="Pandas">Pandas</a>.
+                    <li><strong>Desarrollo de Interfaces Gráficos</strong>: Gran cantidad de los programas que
+                        utilizamos tienen un interfaz gráfico que facilita su uso. Python también puede ser usado para
+                        desarrollar GUIs con librerías como <a href="http://kivy.org/" title="Kivy">Kivy</a> o <a
+                            href="http://www.riverbankcomputing.co.uk/software/pyqt/intro" title="pyqt">pyqt</a>.
+                    <li><strong>Desarrollo Software</strong>: También es usado como soporte para desarrolladores, como
+                        para testing.
+                    <li><strong>Machine Learning</strong>: En los último años ha crecido el número de implementaciones
+                        en Python de librerías de aprendizaje automático como <a href="https://keras.io/"
+                            title="Keras">Keras</a>, <a href="https://www.tensorflow.org/"
+                            title="TensorFlow">TensorFlow</a>, <a href="https://pytorch.org/"
+                            title="PyTorch">PyTorch</a> o <a href="https://scikit-learn.org/"
+                            title="sklearn">sklearn</a>.
+                    <li><strong>Visualización de Datos</strong>: Existen varias librerías muy usadas para mostrar datos
+                        en gráficas, como <a href="https://matplotlib.org/" title="matplotlib">matplotlib</a>, <a
+                            href="https://seaborn.pydata.org/" title="seaborn">seaborn</a> o <a
+                            href="https://plot.ly/python/" title="plotly">plotly</a>.
+                    <li><strong>Finanzas y Trading</strong>: Gracias a librerías como <a
+                            href="https://www.quantlib.org/" title="QuantLib">QuantLib</a> o <a
+                            href="https://qtpylib.io/docs/latest/" title="qtpylib">qtpylib</a> y a su facilidad de uso,
+                        es cada vez más usado en estos sectores.
+                </ul>
+        De hecho a día de hoy prácticamente cualquier API, librería o servicio que existe en el mundo tiene una versión para Python, bien sea de manera nativa o a través de un <em>wrapper</em>.
+
 ---
 
 ## 🔧 Tecnologías utilizadas
