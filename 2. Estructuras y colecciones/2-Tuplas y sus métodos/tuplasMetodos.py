@@ -91,10 +91,10 @@ for valor in coordenadas:
 ## Ejercicio 5: tuplas dentro de listas
 ## Crea una lista de tuplas, donde cada tupla representa un alumno con su nombre y nota.
 ## Imprime solo los alumnos que sacaron más de 70.
-alumnos = [("Ana", 85), ("Luis", 65), ("Marta", 90), ("Pedro", 70)]
+alumnos = [('Juan', 4.5), ('Ana', 3.8), ('Carlos', 5.0)]
 
 for nombre, nota in alumnos:
-    if nota > 70:
+    if nota > 3:
         print(f"{nombre} aprobó con {nota}")
 
 
